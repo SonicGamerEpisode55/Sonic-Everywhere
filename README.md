@@ -9,17 +9,7 @@
 
 <a aria-label="license" href="https://creativecommons.org/licenses/zero/1.0/">
               <img src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/license"></a>
-<a aria-label="release" href="https://github.com/vindocel/Dark-Everywhere/releases/latest">
-              <img alt="" src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/release"></a>
-<a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files">
-              <img alt="" src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/curseforge"></a>
-<a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/dark-everywhere">
-              <img alt="" src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/modrinth"></a>
-<a aria-label="github downloads" href="https://github.com/vindocel/Dark-Everywhere/releases">
-<img alt="" src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/github"></a>
 
-<h7><a href="https://www.curseforge.com/minecraft/texture-packs/dark-everywhere/files" aria-label="curseforge Version">
-<img src="https://img.shields.io/endpoint?url=https://dark-variations.vercel.app/api/version" alt="" /></a></h7>
 
 </div>
 
